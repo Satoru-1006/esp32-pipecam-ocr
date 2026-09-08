@@ -7,7 +7,7 @@
 
 > A compact ESP32-S3 camera pipeline for pipe / cylindrical-part visual inspection: capture UVC frames on-device, expose an MJPEG stream over a board-hosted Wi-Fi AP, run OCR on a Windows host, and return recognition state to the device UI.
 
-This repository is a faithful, research-oriented curation of the local PipeCam project. It contains the ESP32-S3 firmware, Qt/C++ host source, Python/PaddleOCR adapter, local OCR model files, inspection samples, schematics, research documents, the two supplied UI screenshots, and a field demonstration video.
+This repository is a faithful, research-oriented curation of the local PipeCam project. It contains the ESP32-S3 firmware, Qt/C++ host source, Python/PaddleOCR adapter, local OCR model files, inspection samples, research documents, the two supplied UI screenshots, and a field demonstration video.
 
 The repository documents what the current files implement. It does not turn a software demo into a production, safety, accuracy, or certification claim.
 
@@ -60,7 +60,7 @@ The repository also includes:
 
 - Local PaddleOCR model archives and inference files under `host/qt/mainwindow/models/`.
 - Captured frames, OCR debug regions, and sample image collections under `data/`.
-- The original project research reports and board schematics under `docs/`.
+- The original project research reports under `docs/`.
 - `artifacts/esp32_uvc_ap_stream.bin`, a locally produced ESP32 binary preserved for inspection.
 - `artifacts/windows/mainwindow.exe`, preserved as a build artifact; it is not a self-contained distribution without its matching runtime and model files.
 - The raw local backup and duplicated packaged runtimes are intentionally not published. The public tree contains the inspectable source and the smallest useful evidence set.
@@ -137,7 +137,6 @@ host/qt/mainwindow/       Qt/C++ project, models, samples, debug ROIs
 data/                     Captures, CSV/SQLite records, OCR datasets
 docs/media/               Screenshots, video, poster frame
 docs/reports/             Research reports and supporting documents
-docs/schematics/          Board schematics
 artifacts/                Locally built firmware and Windows executable
 docs/index.html           GitHub Pages showcase
 ```

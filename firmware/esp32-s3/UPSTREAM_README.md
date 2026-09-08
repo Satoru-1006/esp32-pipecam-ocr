@@ -48,7 +48,7 @@ Keep `D:\文档\New project 5\esp32s3_original_flash_2026-04-29.bin` before flas
 
 ## Hardware Pins
 
-From the schematic:
+From the board wiring notes:
 
 ```text
 USB D-  -> GPIO19
