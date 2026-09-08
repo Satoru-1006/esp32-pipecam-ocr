@@ -61,9 +61,9 @@ The repository also includes:
 - Local PaddleOCR model archives and inference files under `host/qt/mainwindow/models/`.
 - Captured frames, OCR debug regions, and sample image collections under `data/`.
 - The original project research reports and board schematics under `docs/`.
-- `artifacts/firmware/` with the locally produced ESP32 binary artifacts when available.
+- `artifacts/esp32_uvc_ap_stream.bin`, a locally produced ESP32 binary preserved for inspection.
 - `artifacts/windows/mainwindow.exe`, preserved as a build artifact; it is not a self-contained distribution without its matching runtime and model files.
-- `release/pipecam-local-snapshot-2026-07.zip` is intentionally not committed to Git. It is uploaded as a release asset when the release is created.
+- The raw local backup and duplicated packaged runtimes are intentionally not published. The public tree contains the inspectable source and the smallest useful evidence set.
 
 ## System architecture
 
@@ -145,4 +145,3 @@ docs/index.html           GitHub Pages showcase
 ## License status
 
 No new open-source license is asserted for the mixed local project because it contains user-authored code, generated artifacts, bundled model files, and third-party components with separate provenance. See [`LICENSE_STATUS.md`](LICENSE_STATUS.md) before redistributing or using it commercially.
-
