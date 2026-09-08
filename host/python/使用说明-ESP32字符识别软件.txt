@@ -1,0 +1,21 @@
+软件位置：
+C:\Users\86198\Desktop\scan\启动ESP32字符识别软件.bat
+
+首次使用：
+1. 双击 C:\Users\86198\Desktop\scan\安装OCR依赖.bat
+2. 等待 paddleocr / paddlepaddle 安装完成。
+
+每次使用：
+1. ESP32 上电并开启热点。
+2. 电脑 Wi-Fi 连接 PipeCam-2D55，密码 12345678。
+3. 双击 启动ESP32字符识别软件.bat。
+4. 软件打开后点击“连接ESP32视频”。
+5. 看到画面后点击“字符识别”。
+
+文件来源：
+1. OCR模型读取自 C:\Users\86198\Desktop\scan\mainwindow\models。
+2. 软件逻辑按 mainwindow 工程内容适配：视频显示、当前画面识别、结果记录。
+
+输出：
+1. 保存画面：C:\Users\86198\Desktop\scan\captures
+2. 识别结果：C:\Users\86198\Desktop\scan\exports\scan_results.csv

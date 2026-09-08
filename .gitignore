@@ -1,0 +1,18 @@
+# Generated build products and editor state
+**/build/
+**/.qtc_clangd/
+**/__pycache__/
+**/*.pyc
+**/Makefile
+**/Makefile.*
+**/.qmake.stash
+
+# Local packaging / runtime snapshots are uploaded as release assets instead
+# of entering the Git history.
+release/*.zip
+
+# Local SQLite and transient logs can contain operator data. The curated
+# copies under data/ are intentionally tracked; future runtime copies are not.
+*.db-journal
+*.db-wal
+

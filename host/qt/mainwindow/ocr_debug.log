@@ -1,0 +1,538 @@
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222823.711.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+success=179422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222846.641.png
+variant=0 texts=['79422134400035'] picked=79422134400035
+variant=1 texts=['79422134400035'] picked=79422134400035
+variant=2 texts=['79422134400035'] picked=79422134400035
+variant=5 texts=['79422134400035'] picked=79422134400035
+variant=6 texts=['79422134400035'] picked=79422134400035
+variant=17 texts=['779422134400035'] picked=779422134400035
+success=779422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222911.577.png
+variant=0 texts=['19422134400035'] picked=19422134400035
+variant=1 texts=['9422134400035'] picked=9422134400035
+variant=2 texts=['79422134400035'] picked=79422134400035
+variant=5 texts=['9422134400035'] picked=9422134400035
+variant=6 texts=['422134400035'] picked=422134400035
+variant=17 texts=['09422134400035'] picked=09422134400035
+variant=18 texts=['79422134400036'] picked=79422134400036
+variant=19 texts=['09422134400036'] picked=09422134400036
+variant=22 texts=['09422134400035'] picked=09422134400035
+variant=23 texts=['03422134400035'] picked=03422134400035
+variant=27 texts=['34400035'] picked=34400035
+fallback=19422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222933.218.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222934.858.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222938.843.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222941.074.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222952.953.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-222957.457.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-223005.417.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+success=179422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-223008.889.png
+variant=0 texts=['119422134400035'] picked=119422134400035
+success=119422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-223014.256.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+success=179422134400035
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-225127.088.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+variant=1 texts=['779422134400035'] picked=779422134400035
+variant=2 texts=['779422134400035'] picked=779422134400035
+variant=5 texts=['779422134400035'] picked=779422134400035
+variant=6 texts=['779422134400035'] picked=779422134400035
+variant=17 texts=['119422134400035'] picked=119422134400035
+variant=18 texts=['779422134400036'] picked=779422134400036
+variant=19 texts=['779422134200035'] picked=779422134200035
+variant=22 texts=['779422134400035'] picked=779422134400035
+variant=23 texts=['779422134200035'] picked=779422134200035
+variant=26 texts=['134400035'] picked=134400035
+variant=27 texts=['19427'] picked=19427
+success=779422134400035 candidates={'179422134400035': 4.5, '779422134400035': 20.0, '119422134400035': 4.0, '779422134400036': 4.0, '779422134200035': 8.0}
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-225141.672.png
+variant=0 texts=['719422134400035'] picked=719422134400035
+variant=1 texts=['779422134400035'] picked=779422134400035
+variant=2 texts=['779422134400035'] picked=779422134400035
+variant=5 texts=['79422134400035'] picked=79422134400035
+variant=6 texts=['779422134400035'] picked=779422134400035
+variant=15 texts=['7.'] picked=7
+variant=17 texts=['719422134400035'] picked=719422134400035
+variant=18 texts=['779422134400035'] picked=779422134400035
+variant=19 texts=['779422134400035'] picked=779422134400035
+variant=22 texts=['779422134400035'] picked=779422134400035
+variant=23 texts=['779422134400035'] picked=779422134400035
+variant=26 texts=['400035'] picked=400035
+success=779422134400035 candidates={'719422134400035': 8.5, '779422134400035': 28.0}
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260519-230254.612.png
+variant=0 texts=['nVIDIA', 'GEFORCE', 'CORe', 'RTX', '34400035'] picked=34400035
+variant=1 texts=['CORe', 'GEFORCE', 'RTX', '22134400035'] picked=22134400035
+variant=2 texts=['GEFORCE', 'CORe', 'RTX', '179422134400035'] picked=179422134400035
+variant=5 texts=['779422134400035'] picked=779422134400035
+variant=6 texts=['779422134400035'] picked=779422134400035
+variant=10 texts=['2213440'] picked=2213440
+variant=17 texts=['NViOIA', 'intel', 'GEFORCE', 'CORe', 'RTX', '779422134400035'] picked=779422134400035
+variant=18 texts=['GEFORCE', 'cORe', 'RTX', '79422134499035'] picked=79422134499035
+variant=19 texts=['GEFORCE', 'CORe', 'RTX', '779422134406035'] picked=779422134406035
+variant=22 texts=['77942213499035'] picked=77942213499035
+variant=23 texts=['779422134490035'] picked=779422134490035
+variant=26 texts=['34400035'] picked=34400035
+variant=27 texts=['779422134400035'] picked=779422134400035
+success=779422134400035 candidates={'179422134400035': 4.0, '779422134400035': 16.0, '779422134406035': 4.0, '779422134490035': 4.0}
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-154030.600.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-154127.269.png
+variant=0 texts=['15:40', '号', '2026/5/2', 'Delete', 'Home', 'Backspace', 'End', 'PgUp', 'Enter', 'PgDn'] picked=202652
+variant=5 texts=['2026/522', 'Delete', 'Home', 'End', 'PgUp', 'Enter'] picked=2026522
+variant=6 texts=['2026/3/22', 'Delete', 'Home', 'End', 'PgUp', 'PgDn'] picked=2026322
+variant=21 texts=['2026/5/2', 'Delete', 'Home', 'Backspace', 'End', 'L', 'Pgup', 'Enter', 'PgDn', 'Shift'] picked=202652
+variant=26 texts=['2026/3722', 'Delete', 'loma', 'Backspace', "End'", 'PgUp', 'Enter', 'PgDn'] picked=20263722
+variant=27 texts=['2026/9722', 'Delete', 'Home', 'a'] picked=20269722
+fallback=20263722
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-154202.670.png
+variant=0 texts=['15:40', '号', '2026/5/2', 'Delete', 'Home', 'Backspace', 'End', 'PgUp', 'Enter', 'PgDn'] picked=202652
+variant=5 texts=['2026/522', 'Delete', 'Home', 'End', 'PgUp', 'Enter'] picked=2026522
+variant=6 texts=['2026/3/22', 'Delete', 'Home', 'End', 'PgUp', 'PgDn'] picked=2026322
+variant=21 texts=['2026/5/2', 'Delete', 'Home', 'Backspace', 'End', 'L', 'Pgup', 'Enter', 'PgDn', 'Shift'] picked=202652
+variant=26 texts=['2026/3722', 'Delete', 'loma', 'Backspace', "End'", 'PgUp', 'Enter', 'PgDn'] picked=20263722
+variant=27 texts=['2026/9722', 'Delete', 'Home', 'a'] picked=20269722
+fallback=20263722
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-154520.604.png
+variant=1 texts=['2213440003'] picked=2213440003
+variant=5 texts=['CIO07721227'] picked=07721227
+variant=6 texts=['C00077212'] picked=00077212
+variant=18 texts=['0778127'] picked=0778127
+variant=26 texts=['C077212A'] picked=077212
+variant=27 texts=['Q1000778122730'] picked=1000778122730
+fallback=1000778122730
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-161229.709.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+variant=1 texts=['7794 22134400035'] picked=779422134400035
+variant=2 texts=['179422134400035'] picked=179422134400035
+variant=5 texts=['035'] picked=035
+variant=6 texts=['400035'] picked=400035
+variant=17 texts=['179422134400035'] picked=179422134400035
+variant=18 texts=['7794 2213440035'] picked=77942213440035
+variant=19 texts=['1794 22134 400035'] picked=179422134400035
+variant=22 texts=['34400035', '1942213'] picked=344000351942213
+variant=23 texts=['34400035'] picked=34400035
+success=179422134400035 candidates={'179422134400035': 16.5, '779422134400035': 4.0, '344000351942213': 4.0}
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-161300.320.png
+variant=0 texts=['179422134400035'] picked=179422134400035
+variant=1 texts=['179422134400035'] picked=179422134400035
+variant=2 texts=['179422134400035'] picked=179422134400035
+variant=5 texts=['179422134400035'] picked=179422134400035
+variant=6 texts=['179422134400035'] picked=179422134400035
+variant=17 texts=['179422134400035'] picked=179422134400035
+variant=18 texts=['179422134400035'] picked=179422134400035
+variant=19 texts=['179422134400035'] picked=179422134400035
+variant=22 texts=['179422134400035'] picked=179422134400035
+variant=23 texts=['179422134400035'] picked=179422134400035
+variant=26 texts=['179422', '0035'] picked=179422
+variant=27 texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 44.5}
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-162746.783.png
+variant=0 name=band_enhanced texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_enhanced_x texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 19.5} elapsed=1.78s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-162752.383.png
+variant=0 name=band_enhanced texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_enhanced_x texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 19.5} elapsed=1.71s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-162758.329.png
+variant=0 name=band_enhanced texts=['179422134'] picked=179422134
+variant=4 name=band_enhanced_x texts=['T79422134'] picked=79422134
+variant=6 name=band_enhanced_x texts=['4221'] picked=4221
+fallback=179422134
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-162803.962.png
+variant=0 name=band_enhanced texts=['79422134400035'] picked=79422134400035
+variant=4 name=band_enhanced_x texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 9.0} elapsed=1.81s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163527.199.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=2.22s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163533.753.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163542.522.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+success=779422134400035 candidates={'779422134400035': 11.5} elapsed=2.11s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163546.267.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=2.22s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163601.919.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+variant=4 name=band_clahe texts=['79422134400035'] picked=79422134400035
+success=779422134400035 candidates={'779422134400035': 11.5} elapsed=2.21s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260521-163611.639.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+variant=4 name=band_clahe texts=['779472134400035'] picked=779472134400035
+success=779422134400035 candidates={'779422134400035': 11.5, '779472134400035': 11.0} elapsed=2.31s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225038.884.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=119422134400035 candidates={'119422134400035': 11.5, '179422134400035': 11.0} elapsed=2.37s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225043.587.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=779422134400035 candidates={'779422134400035': 11.5, '119422134400035': 11.0} elapsed=2.31s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225047.335.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=119422134400035 candidates={'119422134400035': 11.5, '179422134400035': 11.0} elapsed=2.26s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225057.963.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.38s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225102.324.png
+variant=0 name=band_clahe texts=['6719422134400035'] picked=671942213440003
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=671942213440003 candidates={'671942213440003': 11.5, '119422134400035': 11.0} elapsed=2.23s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225110.774.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=779422134400035 candidates={'779422134400035': 11.5, '179422134400035': 11.0} elapsed=2.32s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225114.838.png
+variant=0 name=band_clahe texts=['话719422134400035'] picked=719422134400035
+variant=4 name=band_clahe texts=['178422134400035'] picked=178422134400035
+success=719422134400035 candidates={'719422134400035': 11.5, '178422134400035': 11.0} elapsed=2.37s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225123.576.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=2.22s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225129.523.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=179422134400035 candidates={'179422134400035': 11.5, '119422134400035': 11.0} elapsed=2.24s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-225134.835.png
+variant=0 name=band_clahe texts=['179422134400.035'] picked=179422134400035
+variant=4 name=band_clahe texts=['779422134400035'] picked=779422134400035
+success=179422134400035 candidates={'179422134400035': 11.5, '779422134400035': 11.0} elapsed=2.23s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232345.615.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.29s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232352.482.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['422134400035'] picked=422134400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.30s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232357.815.png
+variant=0 name=band_clahe texts=['1194221344'] picked=1194221344
+fallback=1194221344
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232406.262.png
+variant=0 name=band_clahe texts=['19422134400035'] picked=19422134400035
+fallback=19422134400035
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232415.310.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.33s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232419.688.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.20s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232424.701.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.19s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260528-232429.082.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.30s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+Traceback (most recent call last):
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\numpy\core\__init__.py", line 23, in <module>
+    from . import multiarray
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\numpy\core\multiarray.py", line 10, in <module>
+    from . import overrides
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\numpy\core\overrides.py", line 8, in <module>
+    from numpy.core._multiarray_umath import (
+ModuleNotFoundError: No module named 'numpy.core._multiarray_umath'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py", line 68, in __init__
+    from paddleocr import PaddleOCR
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddleocr\__init__.py", line 14, in <module>
+    from .paddleocr import *
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddleocr\paddleocr.py", line 21, in <module>
+    import paddle
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddle\__init__.py", line 31, in <module>
+    from .framework import monkey_patch_variable
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddle\framework\__init__.py", line 17, in <module>
+    from . import random  # noqa: F401
+    ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddle\framework\random.py", line 17, in <module>
+    from paddle import fluid
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddle\fluid\__init__.py", line 36, in <module>
+    from . import framework
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\paddle\fluid\framework.py", line 27, in <module>
+    import numpy as np
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\numpy\__init__.py", line 139, in <module>
+    from . import core
+  File "C:\Users\86198\Desktop\scan\mainwindow\hunhe\Lib\site-packages\numpy\core\__init__.py", line 49, in <module>
+    raise ImportError(msg)
+ImportError: 
+
+IMPORTANT: PLEASE READ THIS FOR ADVICE ON HOW TO SOLVE THIS ISSUE!
+
+Importing the numpy C-extensions failed. This error can happen for
+many reasons, often due to issues with your setup or how NumPy was
+installed.
+
+We have compiled some common reasons and troubleshooting tips at:
+
+    https://numpy.org/devdocs/user/troubleshooting-importerror.html
+
+Please note and check the following:
+
+  * The Python version is: Python3.12 from "C:\Users\86198\AppData\Local\Programs\Python\Python312\python.exe"
+  * The NumPy version is: "1.25.2"
+
+and make sure that they are the versions you expect.
+Please carefully study the documentation linked above for further help.
+
+Original error was: No module named 'numpy.core._multiarray_umath'
+
+
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\temp_image.png
+OCR unavailable
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190127.732-vote_01.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190127_20260529-190127.732-vote_01_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190127_20260529-190127.732-vote_01_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190127_20260529-190127.732-vote_01_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190127_20260529-190127.732-vote_01_04_text_roi.png
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.42s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190127.778-vote_02.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190130_20260529-190127.778-vote_02_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190130_20260529-190127.778-vote_02_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190130_20260529-190127.778-vote_02_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190130_20260529-190127.778-vote_02_04_text_roi.png
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.27s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190127.813-vote_03.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190132_20260529-190127.813-vote_03_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190132_20260529-190127.813-vote_03_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190132_20260529-190127.813-vote_03_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190132_20260529-190127.813-vote_03_04_text_roi.png
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.26s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190127.853-vote_04.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190134_20260529-190127.853-vote_04_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190134_20260529-190127.853-vote_04_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190134_20260529-190127.853-vote_04_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=2 name=band_adaptive_inv texts=['7794'] picked=7794
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190134_20260529-190127.853-vote_04_04_text_roi.png
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=2.35s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190127.896-vote_05.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190137_20260529-190127.896-vote_05_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190137_20260529-190127.896-vote_05_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190137_20260529-190127.896-vote_05_03_text_roi.png
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 11.0} elapsed=2.22s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190146.183-vote_01.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190146_20260529-190146.183-vote_01_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190146_20260529-190146.183-vote_01_02_band_1.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190146.219-vote_02.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190148_20260529-190146.219-vote_02_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190148_20260529-190146.219-vote_02_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190148_20260529-190146.219-vote_02_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.16s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190146.264-vote_03.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190150_20260529-190146.264-vote_03_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190150_20260529-190146.264-vote_03_02_band_1.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190146.300-vote_04.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190152_20260529-190146.300-vote_04_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190152_20260529-190146.300-vote_04_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190152_20260529-190146.300-vote_04_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=2 name=band_adaptive_inv texts=['422182'] picked=422182
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.25s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190146.342-vote_05.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190155_20260529-190146.342-vote_05_01_band_0.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190155_20260529-190146.342-vote_05_02_band_1.png
+debug_roi=C:\Users\86198\Desktop\scan\mainwindow\debug_roi\20260529-190155_20260529-190146.342-vote_05_03_text_roi.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['4400035'] picked=4400035
+success=119422134400035 candidates={'119422134400035': 11.5} elapsed=2.39s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190838.432.png
+fallback=
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190845.939.png
+variant=0 name=band_clahe texts=['119422134400035'] picked=119422134400035
+variant=4 name=band_clahe texts=['119422134400035'] picked=119422134400035
+success=119422134400035 candidates={'119422134400035': 22.5} elapsed=3.05s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190854.376.png
+variant=0 name=band_clahe texts=['779422'] picked=779422
+variant=4 name=band_clahe texts=['779422'] picked=779422
+fallback=779422
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190907.797.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=2 name=band_adaptive_inv texts=['179422134'] picked=179422134
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=3.27s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190913.437.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=2 name=band_adaptive_inv texts=['1947'] picked=1947
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=6 name=band_adaptive_inv texts=['194', '44487'] picked=44487
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=3.80s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190920.948.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=2 name=band_adaptive_inv texts=['79422134'] picked=79422134
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=3.16s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190927.204.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['179422134400035'] picked=179422134400035
+success=179422134400035 candidates={'179422134400035': 22.5} elapsed=3.08s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190932.827.png
+variant=0 name=band_clahe texts=['179422134400035'] picked=179422134400035
+variant=4 name=band_clahe texts=['779422134400035'] picked=779422134400035
+success=179422134400035 candidates={'179422134400035': 11.5, '779422134400035': 11.0} elapsed=3.21s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-190954.082.png
+variant=0 name=band_clahe texts=['779422134400035'] picked=779422134400035
+variant=4 name=band_clahe texts=['0n035'] picked=0035
+success=779422134400035 candidates={'779422134400035': 11.5} elapsed=3.04s
+recognize_text input=C:\Users\86198\Desktop\scan\mainwindow\release\myImage\20260529-191000.012.png
+variant=0 name=band_clahe texts=['话779422134400035'] picked=779422134400035
+variant=2 name=band_adaptive_inv texts=['2213440003'] picked=2213440003
+variant=4 name=band_clahe texts=['779422134400035'] picked=779422134400035
+success=779422134400035 candidates={'779422134400035': 22.5} elapsed=3.38s
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+loading module from C:\Users\86198\Desktop\scan\mainwindow\Py_Module.py
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+loading module from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+module imported from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+loading module from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+module imported from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+loading module from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+PaddleOCR initialized with legacy local models
+module imported from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+loading module from C:\Users\86198\Desktop\Files\scan\mainwindow\release\..\Py_Module.py
+PaddleOCR initialized with legacy local models

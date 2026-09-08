@@ -1,0 +1,18 @@
+当前上位机工程位置：
+C:\Users\86198\Desktop\scan\mainwindow
+
+运行逻辑：
+1. ESP32 开热点。
+2. 电脑连接 ESP32 热点：PipeCam-2D55。
+3. 上位机连接视频流：http://192.168.4.1:8080/stream。
+4. 点击“字符识别”识别当前画面。
+
+本次调整：
+1. 以 mainwindow Qt 工程为准，之前 pipe_cam_studio 软件废弃。
+2. 去掉旧的海康工业相机、Modbus、OpenCV 工程依赖。
+3. 使用 Qt Network 直接接收 ESP32 MJPEG 视频。
+4. OCR 模型路径改为软件目录下的 models 文件夹。
+5. 数据库改为本地 SQLite：scan_records.db，不再要求本机安装 MySQL。
+
+重新编译：
+用 Qt Creator 打开 C:\Users\86198\Desktop\scan\mainwindow\mainwindow.pro，选择 Qt 6 / MSVC 64-bit 套件编译。
